@@ -1,15 +1,4 @@
-//let names=["David","Felipe","Camilo"];
 
-//console.log(nombres);//
-//Agregar elementos al arreglo de nombres
-//let nombre=["David","Felipe","Camilo"]://
-//nombres.push("Alexander");//
-//console.log(nombres(4));//
-//let Equipo=["Nacional","America","Millonarios","Cali","Junior"];
-//console.log(Equipo(5));//
-//nombres.push("America");
-
-//
 let motos=["Yamaha","Kawasaki","Honda","Suzuki","Ducati"];
 
 console.log(motos.length);
